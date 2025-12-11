@@ -17,3 +17,6 @@
 
 ! The actual one is revanced.app, not vanced.to
 ||vanced.to^
+
+!Indonesian Porn block
+||kesiangan.com^
