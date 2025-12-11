@@ -1,0 +1,2 @@
+# theAllowlistz
+allow whats right
