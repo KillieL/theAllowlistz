@@ -1,2 +1,19 @@
 ||bigo.tv^
 ||www.temu.com^
+||aimg.kwcdn.com^
+||www.googleadservices.com^$important
+||graph.facebook.com^$important
+
+! seems Israeli
+||roovza.skadsdk.appsflyersdk.com^$important
+||w5cud4.skadsdk.appsflyersdk.com^$important
+
+||o64374.ingest.sentry.io^$important
+||sentry.io^$important
+||o33249.ingest.sentry.io^$important
+
+! Indo news sites
+||radarlambar.bacakoran.co^$important
+
+! The actual one is revanced.app, not vanced.to
+||vanced.to^
