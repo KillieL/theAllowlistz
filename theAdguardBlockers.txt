@@ -18,5 +18,13 @@
 ! The actual one is revanced.app, not vanced.to
 ||vanced.to^
 
-!Indonesian Porn block
+! Indonesian Porn block
 ||kesiangan.com^$important
+
+
+! Gambling block
+||aziansushi.com^
+||asuusg.com^
+||smallworldlearningcenter.com^
+||mojoloco302.com^
+||hogheavenlagrange.com^
