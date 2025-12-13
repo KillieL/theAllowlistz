@@ -3,6 +3,7 @@
 ||aimg.kwcdn.com^
 ||www.googleadservices.com^$important
 ||graph.facebook.com^$important
+||skype.com^
 
 ! seems Israeli
 ||roovza.skadsdk.appsflyersdk.com^$important
