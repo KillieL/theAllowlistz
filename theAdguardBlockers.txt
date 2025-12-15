@@ -50,7 +50,7 @@
 ||officeloungeandliquorstore.com^
 ||lekkereats.com^
 ||embellishhairstudioroa.com^
-||mona4dgo.com^
+||mona4dgo.com^$important
 
 
 
