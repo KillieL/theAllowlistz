@@ -21,6 +21,8 @@
 ! Indonesian Porn block
 ||kesiangan.com^$important
 
+! Slow CachyOS server
+||sg-sin.soulharsh007.dev^$important
 
 ! Gambling block
 ||aziansushi.com^
