@@ -16,7 +16,7 @@
 ||radarlambar.bacakoran.co^$important
 
 ! The actual one is revanced.app, not vanced.to
-||vanced.to^
+||vanced.to^$important
 
 ! Indonesian Porn block
 ||kesiangan.com^$important
