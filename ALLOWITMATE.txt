@@ -1,4 +1,3 @@
-@@||tiktok.com^$important
 @@||homecinema.curzon.com^$important
 @@||web.facebook.com^$important
 @@||controlplane.tailscale.com^$important
