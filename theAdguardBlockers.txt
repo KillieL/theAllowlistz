@@ -1,7 +1,7 @@
 ||bigo.tv^
-||www.temu.com^
+||temu.com^
 ||aimg.kwcdn.com^
-||www.googleadservices.com^$important
+||googleadservices.com^$important
 ||skype.com^
 
 ! seems Israeli
