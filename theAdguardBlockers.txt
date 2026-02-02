@@ -13,14 +13,17 @@
 ||sentry.io^$important
 ||o33249.ingest.sentry.io^$important
 
+||video.rainberrytv.com^$important
+
 ! Indo news sites
 ||radarlambar.bacakoran.co^$important
 
 ! The actual one is revanced.app, not vanced.to
 ||vanced.to^$important
 
-! Indonesian Porn block
+! Porn block
 ||kesiangan.com^$important
+||buttgoon.com^$important
 
 ! Slow CachyOS server
 ||sg-sin.soulharsh007.dev^$important
