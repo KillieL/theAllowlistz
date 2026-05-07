@@ -14,6 +14,4 @@
 @@||www.docker.com^$important
 @@||www.duckdns.org^$important
 @@||docs.termix.site^$important
-@@||graph.facebook.com^
-@@||b-graph.facebook.com^
 @@||b.cdnst.net^$important
