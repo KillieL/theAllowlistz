@@ -1,5 +1,4 @@
 @@||homecinema.curzon.com^$important
-@@||web.facebook.com^$important
 @@||controlplane.tailscale.com^$important
 @@||tailscale.com^$important
 @@||search.brave.com^$important
